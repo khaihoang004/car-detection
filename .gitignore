@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+demo-od/output/
+demo-od/train.log
+*.zip
